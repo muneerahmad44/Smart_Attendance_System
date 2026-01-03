@@ -1,0 +1,10 @@
+streamlit
+mysql-connector-python
+opencv-python
+pillow
+face_recognition
+dlib
+numpy
+pytz
+chromadb
+
